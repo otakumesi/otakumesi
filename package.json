@@ -1,6 +1,6 @@
 {
   "name": "otakumesi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "my profile.",
   "repository": "otakumesi/otakumesi",
   "main": "src/app.js",
@@ -14,7 +14,8 @@
   "author": "otakumesi",
   "license": "MIT",
   "files": [
-    "src"
+    "src",
+    "cli"
   ],
   "keywords": [
     "cli-app",
