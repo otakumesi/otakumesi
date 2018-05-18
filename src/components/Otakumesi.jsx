@@ -1,5 +1,6 @@
 import { h, Component } from 'ink'
 import SelectInput from 'ink-select-input'
+import BigText from 'ink-big-text';
 import opn from 'opn'
 
 const Profile = () => {
@@ -33,8 +34,8 @@ class Otakumesi extends Component {
   render() {
     return (
       <div>
-      Hi, My name is Otakumesi!!!<br />
-      <Profile />
+        <BigText text="Hi, My name is Otakumesi!!!" />
+        <Profile />
       </div>
     )
   }

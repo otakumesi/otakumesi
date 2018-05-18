@@ -1,7 +1,7 @@
 {
   "name": "otakumesi",
   "version": "0.0.1",
-  "description": "my description.",
+  "description": "my profile.",
   "main": "src/app.js",
   "scripts": {
     "webpack": "webpack"
@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "ink": "^0.4.0",
+    "ink-big-text": "^0.3.0",
     "ink-select-input": "^1.1.0",
     "opn": "^5.3.0"
   },
