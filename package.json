@@ -2,13 +2,25 @@
   "name": "otakumesi",
   "version": "0.0.1",
   "description": "my profile.",
+  "repository": "otakumesi/otakumesi",
   "main": "src/app.js",
   "bin": "src/app.js",
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
     "webpack": "webpack"
   },
   "author": "otakumesi",
   "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "me"
+  ]
   "dependencies": {
     "ink": "^0.4.0",
     "ink-big-text": "^0.3.0",
@@ -26,5 +38,5 @@
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3",
     "webpack-node-externals": "^1.7.2"
-  }
+  },
 }
