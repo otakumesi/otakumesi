@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "my profile.",
   "main": "src/app.js",
+  "bin": "src/app.js",
   "scripts": {
     "webpack": "webpack"
   },
