@@ -47,8 +47,8 @@ module.exports = {
   },
 
   output: {
-    filename: 'otakumesi',
-    path: path.resolve(__dirname, 'dist')
+    filename: 'otakumesi.js',
+    path: path.resolve(__dirname, 'cli/')
   },
 
   plugins: [

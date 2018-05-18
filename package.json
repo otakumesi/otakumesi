@@ -4,7 +4,7 @@
   "description": "my profile.",
   "repository": "otakumesi/otakumesi",
   "main": "src/app.js",
-  "bin": "src/app.js",
+  "bin": "cli/app.js",
   "engines": {
     "node": ">=8"
   },
